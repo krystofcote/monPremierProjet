@@ -1,0 +1,1 @@
+Voici un fichier créé dans une branche locale.
