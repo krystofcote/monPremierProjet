@@ -1,1 +1,3 @@
 Voici un fichier créé dans une branche locale.
+
+Je fais une nouvelle modification avant de push sur le dépot distant, sans pull request.
